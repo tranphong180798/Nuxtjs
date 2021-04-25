@@ -1,0 +1,80 @@
+[
+  {
+    "name": "admin",
+    "path": "/admin",
+    "component": "D:\\\\congty\\\\hello\\\\pages\\\\admin\\\\index.vue",
+    "chunkName": "pages/admin/index"
+  },
+  {
+    "name": "hello",
+    "path": "/hello",
+    "component": "D:\\\\congty\\\\hello\\\\pages\\\\hello.vue",
+    "chunkName": "pages/hello"
+  },
+  {
+    "name": "hello2",
+    "path": "/hello2",
+    "component": "D:\\\\congty\\\\hello\\\\pages\\\\hello2.vue",
+    "chunkName": "pages/hello2"
+  },
+  {
+    "name": "hellone",
+    "path": "/hellone",
+    "component": "D:\\\\congty\\\\hello\\\\pages\\\\hellone.vue",
+    "chunkName": "pages/hellone"
+  },
+  {
+    "name": "inspire",
+    "path": "/inspire",
+    "component": "D:\\\\congty\\\\hello\\\\pages\\\\inspire.vue",
+    "chunkName": "pages/inspire"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "D:\\\\congty\\\\hello\\\\pages\\\\login.vue",
+    "chunkName": "pages/login"
+  },
+  {
+    "name": "notfound",
+    "path": "/notfound",
+    "component": "D:\\\\congty\\\\hello\\\\pages\\\\notfound.vue",
+    "chunkName": "pages/notfound"
+  },
+  {
+    "name": "product",
+    "path": "/product",
+    "component": "D:\\\\congty\\\\hello\\\\pages\\\\product\\\\index.vue",
+    "chunkName": "pages/product/index"
+  },
+  {
+    "name": "refreshToken",
+    "path": "/refreshToken",
+    "component": "D:\\\\congty\\\\hello\\\\pages\\\\refreshToken.vue",
+    "chunkName": "pages/refreshToken"
+  },
+  {
+    "name": "user",
+    "path": "/user",
+    "component": "D:\\\\congty\\\\hello\\\\pages\\\\user\\\\index.vue",
+    "chunkName": "pages/user/index"
+  },
+  {
+    "name": "product-delete-id",
+    "path": "/product/delete/:id?",
+    "component": "D:\\\\congty\\\\hello\\\\pages\\\\product\\\\delete\\\\_id.vue",
+    "chunkName": "pages/product/delete/_id"
+  },
+  {
+    "name": "product-edit-id",
+    "path": "/product/edit/:id?",
+    "component": "D:\\\\congty\\\\hello\\\\pages\\\\product\\\\edit\\\\_id.vue",
+    "chunkName": "pages/product/edit/_id"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\congty\\\\hello\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]
